@@ -4,7 +4,7 @@
 
 *Network & Cloud Engineering | CompTIA Network+ Certified | Atlanta, GA*
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+[LinkedIn]([https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/chibuike-okerulu/))
 
 </div>
 
