@@ -23,7 +23,7 @@
 <table>
   <thead>
     <tr>
-      <th width="30%">Infrastructure Project</th>
+      <th width="35%">Infrastructure Project</th>
       <th width="16%">Proof</th>
       <th width="28%">Purpose</th>
       <th width="16%">Stack</th>
