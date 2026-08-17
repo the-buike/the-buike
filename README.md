@@ -25,9 +25,9 @@
     <tr>
       <th width="35%">Infrastructure Project</th>
       <th width="16%">Proof</th>
-      <th width="28%">Purpose</th>
-      <th width="16%">Stack</th>
-      <th width="10%">Status</th>
+      <th width="30%">Purpose</th>
+      <th width="18%">Stack</th>
+      <th width="8%">Status</th>
     </tr>
   </thead>
   <tbody>
