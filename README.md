@@ -4,7 +4,7 @@
 
 *Network & Cloud Engineering | CompTIA Network+ Certified | Atlanta, GA*
 
-[LinkedIn]([https://www.linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/chibuike-okerulu/))
+[LinkedIn](https://www.linkedin.com/in/chibuike-okerulu/)
 
 </div>
 
@@ -20,14 +20,66 @@
 
 ## Network & Cloud Infrastructure
 
-| Infrastructure Project | Proof | Purpose | Stack | Status |
-|---|---|---|---|---|
-| [Hybrid Home Lab: Core Build](https://github.com/the-buike/homelab-lab) | Configs & Screenshots Included | The physical foundation of the lab. Router, managed switch, hypervisor host, and secure remote access over an overlay network. | MikroTik RouterOS · Proxmox VE · Ubuntu Server · Tailscale | ![In Progress](https://img.shields.io/badge/In%20Progress-blue) |
-| [VLAN Segmentation & Inter-VLAN Firewall](https://github.com/the-buike/homelab-lab) | CLI Configs Included | Splits the lab into Management, Services, and DMZ VLANs, each with its own DHCP pool and firewall rules controlling traffic between zones. | MikroTik RouterOS · 802.1Q · DHCP | ![Complete](https://img.shields.io/badge/Complete-2ea44f) |
-| [Active Directory Domain Services Lab](https://github.com/the-buike/Active-Directory) | Screenshots Included | A Windows Server 2022 VM promoted to domain controller, with an OU structure and DNS set up for the lab domain. | Windows Server 2022 · AD DS · DNS · Proxmox | ![Complete](https://img.shields.io/badge/Complete-2ea44f) |
-| [Enterprise Simulation: Ashgrove Regional Medical Center](https://github.com/the-buike/Enterprise-Simulation) | Coming per phase | A full hybrid environment for a fictional hospital network. Department VLANs and switching in EVE-NG, connected to self-managed AD DS in Azure over a site-to-site VPN, with department-based access control modeled on real healthcare IT practices. | EVE-NG · Azure VNets · VPN Gateway · Windows Server 2022 | ![In Progress](https://img.shields.io/badge/In%20Progress-blue) |
-| **osTicket (Help Desk Ticketing System)**<br>◦ [Prerequisites and Installation](https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration)<br>◦ [Post-Installation Configuration](https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration)<br>◦ [Ticket Lifecycle Examples](https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration) | Configs, Screenshots & Ticket Writeups | A clinical IT help desk for Ashgrove Regional Medical Center — server prep, department/SLA configuration, and real ticket workflows from open to resolution. | osTicket · PHP · MySQL/MariaDB · Apache | ![In Progress](https://img.shields.io/badge/In%20Progress-blue) |
-| Network Monitoring & Observability | Coming soon | SNMP and flow monitoring with alerting across all lab VLANs. | TBD | ![Queued](https://img.shields.io/badge/Queued-lightgrey) |
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Infrastructure Project</th>
+      <th width="16%">Proof</th>
+      <th width="28%">Purpose</th>
+      <th width="16%">Stack</th>
+      <th width="10%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/the-buike/homelab-lab">Hybrid Home Lab: Core Build</a></td>
+      <td>Configs & Screenshots Included</td>
+      <td>The physical foundation of the lab. Router, managed switch, hypervisor host, and secure remote access over an overlay network.</td>
+      <td>MikroTik RouterOS · Proxmox VE · Ubuntu Server · Tailscale</td>
+      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/the-buike/homelab-lab">VLAN Segmentation & Inter-VLAN Firewall</a></td>
+      <td>CLI Configs Included</td>
+      <td>Splits the lab into Management, Services, and DMZ VLANs, each with its own DHCP pool and firewall rules controlling traffic between zones.</td>
+      <td>MikroTik RouterOS · 802.1Q · DHCP</td>
+      <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/the-buike/Active-Directory">Active Directory Domain Services Lab</a></td>
+      <td>Screenshots Included</td>
+      <td>A Windows Server 2022 VM promoted to domain controller, with an OU structure and DNS set up for the lab domain.</td>
+      <td>Windows Server 2022 · AD DS · DNS · Proxmox</td>
+      <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/the-buike/Enterprise-Simulation">Enterprise Simulation: Ashgrove Regional Medical Center</a></td>
+      <td>Coming per phase</td>
+      <td>A full hybrid environment for a fictional hospital network. Department VLANs and switching in EVE-NG, connected to self-managed AD DS in Azure over a site-to-site VPN, with department-based access control modeled on real healthcare IT practices.</td>
+      <td>EVE-NG · Azure VNets · VPN Gateway · Windows Server 2022</td>
+      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>osTicket (Help Desk Ticketing System)</strong><br>
+        &#9702; <a href="https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration">Prerequisites and Installation</a><br>
+        &#9702; <a href="https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration">Post-Installation Configuration</a><br>
+        &#9702; <a href="https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration">Ticket Lifecycle Examples</a>
+      </td>
+      <td>Configs, Screenshots & Ticket Writeups</td>
+      <td>A clinical IT help desk for Ashgrove Regional Medical Center — server prep, department/SLA configuration, and real ticket workflows from open to resolution.</td>
+      <td>osTicket · PHP · MySQL/MariaDB · Apache</td>
+      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+    </tr>
+    <tr>
+      <td>Network Monitoring & Observability</td>
+      <td>Coming soon</td>
+      <td>SNMP and flow monitoring with alerting across all lab VLANs.</td>
+      <td>TBD</td>
+      <td><img src="https://img.shields.io/badge/Queued-lightgrey" alt="Queued"></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
