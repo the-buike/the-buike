@@ -62,9 +62,9 @@
     <tr>
       <td>
         <strong>osTicket (Help Desk Ticketing System)</strong><br>
-        &#9702; <a href="https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration">Prerequisites and Installation</a><br>
-        &#9702; <a href="https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration">Post-Installation Configuration</a><br>
-        &#9702; <a href="https://github.com/the-buike/osTicket---Ashgrove-Clinic-Configuration">Ticket Lifecycle Examples</a>
+        &#9702; <a href="https://github.com/the-buike/osTicket-Prerequisites-and-Installation">Prerequisites and Installation</a><br>
+        &#9702; <a href="https://github.com/the-buike/osTicket-Configuration">Post-Installation Configuration</a><br>
+        &#9702; <a href="https://github.com/the-buike/osticket-lifecycle">Ticket Lifecycle Examples</a>
       </td>
       <td>Configs, Screenshots & Ticket Writeups</td>
       <td>A clinical IT help desk for Ashgrove Regional Medical Center — server prep, department/SLA configuration, and real ticket workflows from open to resolution.</td>
