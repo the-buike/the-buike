@@ -52,8 +52,8 @@
         &#9702; <a href="https://github.com/the-buike/osTicket-Configuration">Ashgrove DNS</a><br>
       </td>
       <td>Screenshots Included</td>
-      <td>A Windows Server 2022 VM promoted to domain controller, with an OU structure and DNS set up for the lab domain.</td>
-      <td>Windows Server 2022 · AD DS · DNS · Proxmox</td>
+      <td>Stood up Ashgrove Clinic's internal Active Directory environment for Bridgeway Technology, a Windows Server 2022 domain controller promoted for ashgroveclinic.com, with a department-based OU structure, DNS, and staff accounts provisioned end to end.</td>
+<td>Windows Server 2022 · AD DS · DNS · Azure</td>
       <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
     </tr>
     <tr>
