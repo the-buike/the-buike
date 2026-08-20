@@ -20,6 +20,8 @@
 
 ## Network & Cloud Infrastructure
 
+### Personal Home Lab Infrastructure
+
 <table>
   <thead>
     <tr>
@@ -46,36 +48,6 @@
       <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
     </tr>
     <tr>
-      <td>
-        <strong>Active Directory Domain Services Lab</strong><br>
-        &#9702; <a href="https://github.com/the-buike/Active-Directory">Ashgrove Active Directory</a><br>
-        &#9702; <a href="https://github.com/the-buike/osTicket-Configuration">Ashgrove DNS</a><br>
-      </td>
-      <td>Screenshots Included</td>
-      <td>Stood up Ashgrove Clinic's internal Active Directory environment for Bridgeway Technology, a Windows Server 2022 domain controller promoted for ashgroveclinic.com, with a department-based OU structure, DNS, and staff accounts provisioned end to end.</td>
-<td>Windows Server 2022 · AD DS · DNS · Azure</td>
-      <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
-    </tr>
-    <tr>
-      <td>
-        <strong>osTicket (Help Desk Ticketing System)</strong><br>
-        &#9702; <a href="https://github.com/the-buike/osTicket-Prerequisites-and-Installation">Prerequisites and Installation</a><br>
-        &#9702; <a href="https://github.com/the-buike/osTicket-Configuration">Post-Installation Configuration</a><br>
-        &#9702; <a href="https://github.com/the-buike/osticket-lifecycle">Ticket Lifecycle Examples</a>
-      </td>
-      <td>Configs, Screenshots & Ticket Writeups</td>
-      <td>A clinical IT help desk for Ashgrove Regional Medical Center — server prep, department/SLA configuration, and real ticket workflows from open to resolution.</td>
-      <td>osTicket · PHP · MySQL/MariaDB · Apache</td>
-      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/the-buike/Enterprise-Simulation">Enterprise Simulation: Ashgrove Regional Medical Center</a></td>
-      <td>Coming per phase</td>
-      <td>A full hybrid environment for a fictional hospital network. Department VLANs and switching in EVE-NG, connected to self-managed AD DS in Azure over a site-to-site VPN, with department-based access control modeled on real healthcare IT practices.</td>
-      <td>EVE-NG · Azure VNets · VPN Gateway · Windows Server 2022</td>
-      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
-    </tr>
-    <tr>
       <td>Network Monitoring & Observability</td>
       <td>Coming soon</td>
       <td>SNMP and flow monitoring with alerting across all lab VLANs.</td>
@@ -85,49 +57,4 @@
   </tbody>
 </table>
 
----
-
-## Certification Study Tools (Built, Not Just Studied)
-
-| Project | Proof | Purpose | Stack | Status |
-|---|---|---|---|---|
-| [Network+ Quiz PWA](https://the-buike.github.io/Net-Plus/) | Live App | A 100-question quiz app weighted to match the N10-009 exam blueprint. I built it for my own prep and passed with an **810**. | JavaScript · PWA · GitHub Pages | ![Complete](https://img.shields.io/badge/Complete-2ea44f) |
-| CCNA 200-301 Prep PWA | Live App | 150 questions and 80 flashcards covering all six CCNA exam domains. | JavaScript · PWA · GitHub Pages | ![Complete](https://img.shields.io/badge/Complete-2ea44f) |
-
----
-
-## Data & Analytics Background
-
-| Project | Purpose | Stack | Status |
-|---|---|---|---|
-| E-Commerce Analytics Portfolio | Customer segmentation, market basket analysis, and dashboards built on synthetic retail data. From my earlier BI work, and still useful for reporting and monitoring today. | Python · SQL · Power BI | ![Complete](https://img.shields.io/badge/Complete-2ea44f) |
-
----
-
-## Certifications
-
-| Certification | Status |
-|---|---|
-| CompTIA Network+ (N10-009), scored **810** | ![Earned](https://img.shields.io/badge/Earned-2ea44f) |
-| Microsoft Azure Administrator (AZ-104) | ![In Progress](https://img.shields.io/badge/In%20Progress-blue) |
-| Cisco CCNA (200-301) | ![Queued](https://img.shields.io/badge/Queued-lightgrey) |
-
----
-
-## Skills Snapshot
-
-**Networking:** VLANs & 802.1Q · Inter-VLAN routing · Firewall policy · DHCP/DNS · NAT · Subnetting · OSPF/BGP concepts · Site-to-site VPN · MikroTik RouterOS CLI
-
-**Cloud & Systems:** Azure (VNets, VMs, VPN Gateway) · Proxmox VE · Windows Server 2022 · AD DS · Ubuntu Server · Tailscale · SSH
-
-**Scripting & Data:** Python · SQL · PHP/Laravel · JavaScript · Power BI
-
----
-
-<div align="center">
-
-📫 **bukkyokerulu@gmail.com** · 🌐 [Portfolio](#) <!-- update -->
-
-*A non-linear path, all of it pointing toward infrastructure.*
-
-</div>
+### Simulated Client Engagement:
