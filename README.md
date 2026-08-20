@@ -98,7 +98,7 @@
       <td>Coming per phase</td>
       <td>A full hybrid environment for a fictional hospital network. Department VLANs and switching in EVE-NG, connected to self-managed AD DS in Azure over a site-to-site VPN, with department-based access control modeled on real healthcare IT practices.</td>
       <td>EVE-NG · Azure VNets · VPN Gateway · Windows Server 2022</td>
-      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+      <td><img src="https://img.shields.io/badge/Queued-lightgrey" alt="Queued"></td>
     </tr>
   </tbody>
 </table>
