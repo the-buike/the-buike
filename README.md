@@ -46,7 +46,6 @@
       <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/the-buike/Active-Directory">Active Directory Domain Services Lab</a></td>
       <td>
         <strong>Active Directory Domain Services Lab</strong><br>
         &#9702; <a href="https://github.com/the-buike/Active-Directory">Ashgrove Active Directory</a><br>
