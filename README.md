@@ -47,6 +47,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/the-buike/Active-Directory">Active Directory Domain Services Lab</a></td>
+      <td>
+        <strong>Active Directory Domain Services Lab</strong><br>
+        &#9702; <a href="https://github.com/the-buike/Active-Directory">Ashgrove Active Directory</a><br>
+        &#9702; <a href="https://github.com/the-buike/osTicket-Configuration">Ashgrove DNS</a><br>
+      </td>
       <td>Screenshots Included</td>
       <td>A Windows Server 2022 VM promoted to domain controller, with an OU structure and DNS set up for the lab domain.</td>
       <td>Windows Server 2022 · AD DS · DNS · Proxmox</td>
