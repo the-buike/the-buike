@@ -57,13 +57,6 @@
       <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/the-buike/Enterprise-Simulation">Enterprise Simulation: Ashgrove Regional Medical Center</a></td>
-      <td>Coming per phase</td>
-      <td>A full hybrid environment for a fictional hospital network. Department VLANs and switching in EVE-NG, connected to self-managed AD DS in Azure over a site-to-site VPN, with department-based access control modeled on real healthcare IT practices.</td>
-      <td>EVE-NG · Azure VNets · VPN Gateway · Windows Server 2022</td>
-      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
-    </tr>
-    <tr>
       <td>
         <strong>osTicket (Help Desk Ticketing System)</strong><br>
         &#9702; <a href="https://github.com/the-buike/osTicket-Prerequisites-and-Installation">Prerequisites and Installation</a><br>
@@ -73,6 +66,13 @@
       <td>Configs, Screenshots & Ticket Writeups</td>
       <td>A clinical IT help desk for Ashgrove Regional Medical Center — server prep, department/SLA configuration, and real ticket workflows from open to resolution.</td>
       <td>osTicket · PHP · MySQL/MariaDB · Apache</td>
+      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/the-buike/Enterprise-Simulation">Enterprise Simulation: Ashgrove Regional Medical Center</a></td>
+      <td>Coming per phase</td>
+      <td>A full hybrid environment for a fictional hospital network. Department VLANs and switching in EVE-NG, connected to self-managed AD DS in Azure over a site-to-site VPN, with department-based access control modeled on real healthcare IT practices.</td>
+      <td>EVE-NG · Azure VNets · VPN Gateway · Windows Server 2022</td>
       <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
     </tr>
     <tr>
