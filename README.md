@@ -73,7 +73,7 @@
     <tr>
       <td>
         <strong>Active Directory Domain Services Lab</strong><br>
-        &#9702; <a href="https://github.com/the-buike/Active-Directory">Ashgrove Active Directory</a><br>
+        &#9702; <a href="https://github.com/the-buike/Ashgrove-active-Directory">Ashgrove Active Directory</a><br>
         <!--&#9702; <a href="https://github.com/the-buike/osTicket-Configuration">Ashgrove DNS</a><br>-->
       </td>
       <td>Screenshots Included</td>
