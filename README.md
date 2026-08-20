@@ -144,8 +144,7 @@
 
 <div align="center">
 
-📫 **bukkyokerulu@gmail.com** · 🌐 [Portfolio](#) <!-- update -->
+📫 **bukkyokerulu@gmail.com** · 🌐 [Portfolio](#) 
 
-*A non-linear path, all of it pointing toward infrastructure.*
 
 </div>
