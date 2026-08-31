@@ -74,7 +74,6 @@
       <td>
         <strong>Active Directory Domain Services Lab</strong><br>
         &#9702; <a href="https://github.com/the-buike/Ashgrove-active-Directory">Ashgrove Active Directory</a><br>
-        <!--&#9702; <a href="https://github.com/the-buike/osTicket-Configuration">Ashgrove DNS</a><br>-->
       </td>
       <td>Screenshots Included</td>
       <td>Stood up Ashgrove Clinic's internal Active Directory environment for Bridgeway Technology, a Windows Server 2022 domain controller promoted for ashgroveclinic.com, with a department-based OU structure, DNS, and staff accounts provisioned end to end.</td>
