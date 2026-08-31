@@ -72,12 +72,22 @@
   <tbody>
     <tr>
       <td>
-        <strong>Active Directory Domain Services Lab</strong><br>
+        <strong>Active Directory Domain Services Lab (Azure)</strong><br>
         &#9702; <a href="https://github.com/the-buike/Ashgrove-active-Directory">Ashgrove Active Directory</a><br>
       </td>
       <td>Screenshots Included</td>
       <td>Stood up Ashgrove Clinic's internal Active Directory environment for Bridgeway Technology, a Windows Server 2022 domain controller promoted for ashgroveclinic.com, with a department-based OU structure, DNS, and staff accounts provisioned end to end.</td>
       <td>Windows Server 2022 · AD DS · DNS · Azure</td>
+      <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Active Directory Domain Services Lab (On-Prem)</strong><br>
+        &#9702; <a href="https://github.com/the-buike/PLACEHOLDER-Ashgrove-AD-OnPrem">Ashgrove Active Directory, On-Prem</a><br>
+      </td>
+      <td>Screenshots Included</td>
+      <td>Rebuilt Ashgrove Clinic's Active Directory environment on self-hosted Proxmox hardware instead of Azure, a Windows Server 2025 domain controller promoted for ashgroveclinic.com, with DHCP, department OUs, security groups, staff accounts, and department-scoped GPOs provisioned largely through PowerShell scripting.</td>
+      <td>Windows Server 2025 · Proxmox VE · AD DS · DNS · DHCP · PowerShell</td>
       <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
     </tr>
     <tr>
