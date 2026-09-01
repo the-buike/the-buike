@@ -83,7 +83,7 @@
     <tr>
       <td>
         <strong>Active Directory Domain Services Lab (On-Prem)</strong><br>
-        &#9702; <a href="https://github.com/the-buike/PLACEHOLDER-Ashgrove-AD-OnPrem">Ashgrove Active Directory, On-Prem</a><br>
+        &#9702; <a href="https://github.com/the-buike/ashgrove-on-prem-EntraID">Ashgrove Active Directory, On-Prem</a><br>
       </td>
       <td>Screenshots Included</td>
       <td>Rebuilt Ashgrove Clinic's Active Directory environment on self-hosted Proxmox hardware instead of Azure, a Windows Server 2025 domain controller promoted for ashgroveclinic.com, with DHCP, department OUs, security groups, staff accounts, and department-scoped GPOs provisioned largely through PowerShell scripting.</td>
