@@ -48,12 +48,12 @@
       <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
     </tr>
     <tr>
-      <td>Network Monitoring & Observability</td>
-      <td>Coming soon</td>
-      <td>SNMP and flow monitoring with alerting across all lab VLANs.</td>
-      <td>TBD</td>
-      <td><img src="https://img.shields.io/badge/Queued-lightgrey" alt="Queued"></td>
-    </tr>
+  <td><a href="https://github.com/the-buike/homelab-lab">Network Monitoring & Observability</a></td>
+  <td>Configs & Dashboard Screenshots Included</td>
+  <td>SNMP-based monitoring of MikroTik router interfaces across all four VLANs, visualized in Grafana with live traffic, interface status, and bandwidth panels.</td>
+  <td>Prometheus · SNMP Exporter · Grafana</td>
+  <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
+</tr>
   </tbody>
 </table>
 
