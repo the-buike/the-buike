@@ -33,28 +33,14 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/the-buike/homelab-lab">Hybrid Home Lab: Core Build</a></td>
-      <td>Configs & Screenshots Included</td>
-      <td>The physical foundation of the lab. Router, managed switch, hypervisor host, and secure remote access over an overlay network.</td>
-      <td>MikroTik RouterOS · Proxmox VE · Ubuntu Server · Tailscale</td>
-      <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/the-buike/homelab-lab">VLAN Segmentation & Inter-VLAN Firewall</a></td>
-      <td>CLI Configs Included</td>
-      <td>Splits the lab into Management, Services, and DMZ VLANs, each with its own DHCP pool and firewall rules controlling traffic between zones.</td>
-      <td>MikroTik RouterOS · 802.1Q · DHCP</td>
-      <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
-    </tr>
-    <tr>
-  <td><a href="https://github.com/the-buike/homelab-lab">Network Monitoring & Observability</a></td>
-  <td>Configs & Dashboard Screenshots Included</td>
-  <td>SNMP-based monitoring of MikroTik router interfaces across all four VLANs, visualized in Grafana with live traffic, interface status, and bandwidth panels.</td>
-  <td>Prometheus · SNMP Exporter · Grafana</td>
-  <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
-</tr>
-  </tbody>
+  <tr>
+    <td><a href="https://github.com/the-buike/homelab-lab">Homelab: Segmented Network, Monitoring & Proxmox Cluster</a></td>
+    <td>Configs, Docs & Dashboard Screenshots Included</td>
+    <td>A segmented homelab built from scratch: four VLANs with one-way trust isolation and inter-VLAN firewall rules, a two-node Proxmox cluster running VLAN-aware trunks, SNMP-based monitoring of the router in Grafana, and secure remote access over Tailscale.</td>
+    <td>MikroTik RouterOS · 802.1Q · Proxmox VE · Prometheus · SNMP Exporter · Grafana · Tailscale</td>
+    <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+  </tr>
+</tbody>
 </table>
 
 ### Simulated Client Engagement: Bridgeway Technology / Ashgrove Clinic
