@@ -38,7 +38,7 @@
     <td>Configs, Docs & Dashboard Screenshots Included</td>
     <td>A segmented homelab built from scratch: four VLANs with one-way trust isolation and inter-VLAN firewall rules, a two-node Proxmox cluster running VLAN-aware trunks, SNMP-based monitoring of the router in Grafana, and secure remote access over Tailscale.</td>
     <td>MikroTik RouterOS · 802.1Q · Proxmox VE · Prometheus · SNMP Exporter · Grafana · Tailscale</td>
-    <td><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></td>
+    <td><img src="https://img.shields.io/badge/Complete-2ea44f" alt="Complete"></td>
   </tr>
 </tbody>
 </table>
